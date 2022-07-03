@@ -19,7 +19,7 @@ Provide examples here. EACH example should be separated by '.EXAMPLE'
 .NOTES
 
 Created by: Your Name Here
-Email Address: first.last@jax.org
+Email Address: youremail@domain.com
 Date of Creation: mm/dd/yyyy
 
 Date of update: mm/dd/yyyy
